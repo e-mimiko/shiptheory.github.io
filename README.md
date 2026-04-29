@@ -8,9 +8,12 @@ To install and run this site, do the following:
 
 1. Download the zip file called shiptheory.zip  
 2. Extract the folder  
-3. Open the folder and double click index.html to run the static site in the browser
-4. To edit the website, you will need to install a code editor such as VS Code, Sublime or Atom. Right click on index.html, select open with Visual Studio Code (or another editor of your choice) and start editing!
-5. To see any changes done on index.html, reload index.html in the browser.
+3. cd into the folder
+4. Open a terminal at the folder root and enter python -m http.server 8000 to start server
+5. Go to localhost:8000 in a browser
+6. Open the folder and double click index.html to run the static site in the browser
+7. To edit the website, you will need to install a code editor such as VS Code, Sublime or Atom. Right click on index.html, select open with Visual Studio Code (or another editor of your choice) and start editing!
+8. To see any changes done on index.html, reload index.html in the browser.
 
 
 # Sources
@@ -20,4 +23,3 @@ To install and run this site, do the following:
 3. Content Security Policy Quick Reference Guide: https://content-security-policy.com/
 
 Thank you\!
-# shiptheory.github.io

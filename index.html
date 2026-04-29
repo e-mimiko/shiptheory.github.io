@@ -5,8 +5,11 @@
         <link rel="icon" type="image/x-icon" href="images/favicon_io/favicon.ico">
         <meta charset="UTF-8">
         <!-- Security Measures:-->
-        <meta http-equiv="Content-Security-Policy" content="default-src *; script-src 'self';style-src 'self',img-src 'self'; connect-src https://docs.google.com">
+        <!-- <meta http-equiv="Content-Security-Policy" content="default-src *; script-src 'self';style-src 'self',img-src 'self'; connect-src https://cdn.jsdelivr.net/"> -->
         <link rel="stylesheet" href="css/styles.css">
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+        <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> -->
         <script src="js/script.js"></script>
     </head>
     <body>
@@ -14,7 +17,7 @@
             <h1>Ship Theory: Exploring Patterns in BL Ships</h1>
         </header>
         <nav></nav>
-        <main><p>an incident</p></main>
+        <main><canvas id="chart"></canvas></main>
         <aside>
             <p>an incident</p>
             <p>an incident</p>
