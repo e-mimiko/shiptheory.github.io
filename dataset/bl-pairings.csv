@@ -1,51 +1,51 @@
-seme_name,seme_age,uke_name,uke_age,seme_is_taller1_same0_shorter2,fan_engagement_1_5,ship_name,production_house,years_since_first_series_as_pair,had_a_popular_series
-William,21,Est,23,2,5,WilliamEst,GMMTV,2,1
-Off,35,Gun,32,1,3,OffGun,GMMTV,,1
-Tay,34,New,33,0,2,TayNew,GMMTV,,1
-Krist,30,Singto,31,0,2,KristSingto,GMMTV,,1
-Earth,32,Mix,27,1,2,EarthMix,GMMTV,,1
-Pond,25,Phuwin,22,1,5,PondPhuwin,GMMTV,,1
-First,27,Khaotung,27,1,5,FirstKhaotung,GMMTV,,1
-Gemini,21,Fourth,21,1,5,GeminiFourth,GMMTV,,1
-Jimmy,31,Sea,27,1,4,JimmySea,GMMTV,,1
-Force,29,Book,29,1,3,ForceBook,GMMTV,,
-Joong,25,Dunk,25,0,4,JoongDunk,GMMTV,,
-Aou,26,Boom,27,2,3,AouBoom,GMMTV,,
-Sea,20,Keen,20,1,2,SeaKeen,GMMTV,,
-Junior,29,Mark,28,0,5,JuniorMark,GMMTV,,
-Perth,25,Santa,22,0,5,PerthSanta,GMMTV,,1
-Luke,22,Mick,20,1,2,LukeMick,GMMTV,,
-Chokun,20,Aston,20,1,3,ChokunAston,GMMTV,,
-Ken,20,Paul,19,1,2,KenPaul,GMMTV,,1
-Mark,27,Ohm,24,0,2,MarkOhm,GMMTV,,
-Joss,30,Gawin,28,1,5,JossGawin,GMMTV,,
-Ohm,29,Poon,26,1,2,OhmPoon,GMMTV,,
-Sky,27,Nani,28,0,5,SkyNani,GMMTV,,1
-Max,32,Nat,23,1,3,MaxNat,Domundi,,1
-Zee,33,Nunew,24,1,5,ZeeNunew,Domundi,,1
-Tutor,25,Yim,25,1,2,TutorYim,Domundi,,
-Keng,26,Namping,25,0,5,KengNamping,Domundi,,1
-Thomas,25,Kong,22,0,5,ThomasKong,Domundi,,1
-Net,28,JJ,25,0,3,NetJJ,Domundi,,
-TeeTee,21,Por,23,0,5,TeeTeePor,Domundi,,1
-Auau,24,Save,22,1,3,AuauSave,Domundi,,
-Latte,25,Kim,29,0,2,LatteKim,Domundi,,
-Tle,27,Firstone,25,0,4,TleFirstone,Domundi,,1
-North,21,Otto,21,1,3,NorthOtto,Domundi,,
-Jes,34,Bible,28,1,2,JesBible,BOC,,
-Mile,34,Apo,32,0,5,MileApo,BOC,,1
-JJ,25,Fuaiz,20,1,1,JJFuaiz,BOC,,
-Boss,26,Noeul,26,1,5,BossNoeul,Me Mind Y,,1
-Fort,25,Peat,29,0,3,FortPeat,Me Mind Y,,1
-Billy,31,Babe,27,1,3,BillyBabe,Independent/Idol Factory,,1
-Pooh,22,Pavel,28,0,5,PoohPavel,Change2561,,1
-Michael,29,Topten,25,0,1,MichaelTopten,Change2561,,
-Sailub,32,Pon,30,1,1,SailubPon,Change2561,,
-Big,28,Park,22,1,3,BigPark,Star Hunter/,,
-Billkin,26,PP,26,0,5,BillkinPP,Independent,,1
-Boat,29,Oat,31,1,3,BoatOat,MFlow,,1
-Daou,28,Offroad,26,1,5,DaouOffroad,Open Label,,
-Maxky,31,Bas,27,1,5,MaxkyBas,Independent,,1
-Mos,24,Bank,27,1,1,MosBank,iQIYI Thailand,,
-Up,31,Poom,28,0,4,UpPoom,Independent,,1
-Yin,27,War,31,1,4,YinWar,ARGENTIS,,1
+seme_name,seme_age,uke_name,uke_age,seme_is_older1_same0_younger2,seme_is_taller1_same0_shorter2,fan_engagement_1_5,ship_name,production_house,years_since_first_series_as_pair,had_a_popular_series
+William,21,Est,23,2,2,5,WilliamEst,GMMTV,2,1
+Off,35,Gun,32,1,1,3,OffGun,GMMTV,,1
+Tay,34,New,33,1,0,2,TayNew,GMMTV,,1
+Krist,30,Singto,31,2,0,2,KristSingto,GMMTV,,1
+Earth,32,Mix,27,1,1,2,EarthMix,GMMTV,,1
+Pond,25,Phuwin,22,1,1,5,PondPhuwin,GMMTV,,1
+First,27,Khaotung,27,0,1,5,FirstKhaotung,GMMTV,,1
+Gemini,21,Fourth,21,0,1,5,GeminiFourth,GMMTV,,1
+Jimmy,31,Sea,27,1,1,4,JimmySea,GMMTV,,1
+Force,29,Book,29,0,1,3,ForceBook,GMMTV,,
+Joong,25,Dunk,25,0,0,4,JoongDunk,GMMTV,,
+Aou,26,Boom,27,2,2,3,AouBoom,GMMTV,,
+Sea,20,Keen,20,0,1,2,SeaKeen,GMMTV,,
+Junior,29,Mark,28,1,0,5,JuniorMark,GMMTV,,
+Perth,25,Santa,22,1,0,5,PerthSanta,GMMTV,,1
+Luke,22,Mick,20,1,1,2,LukeMick,GMMTV,,
+Chokun,20,Aston,20,0,1,3,ChokunAston,GMMTV,,
+Ken,20,Paul,19,1,1,2,KenPaul,GMMTV,,1
+Mark,27,Ohm,24,1,0,2,MarkOhm,GMMTV,,
+Joss,30,Gawin,28,1,1,5,JossGawin,GMMTV,,
+Ohm,29,Poon,26,1,1,2,OhmPoon,GMMTV,,
+Sky,27,Nani,28,2,0,5,SkyNani,GMMTV,,1
+Max,32,Nat,23,1,1,3,MaxNat,Domundi,,1
+Zee,33,Nunew,24,1,1,5,ZeeNunew,Domundi,,1
+Tutor,25,Yim,25,0,1,2,TutorYim,Domundi,,
+Keng,26,Namping,25,1,0,5,KengNamping,Domundi,,1
+Thomas,25,Kong,22,1,0,5,ThomasKong,Domundi,,1
+Net,28,JJ,25,1,0,3,NetJJ,Domundi,,
+TeeTee,21,Por,23,2,0,5,TeeTeePor,Domundi,,1
+Auau,24,Save,22,1,1,3,AuauSave,Domundi,,
+Latte,25,Kim,29,2,0,2,LatteKim,Domundi,,
+Tle,27,Firstone,25,1,0,4,TleFirstone,Domundi,,1
+North,21,Otto,21,0,1,3,NorthOtto,Domundi,,
+Jes,34,Bible,28,1,1,2,JesBible,BOC,,
+Mile,34,Apo,32,1,0,5,MileApo,BOC,,1
+JJ,25,Fuaiz,20,1,1,1,JJFuaiz,BOC,,
+Boss,26,Noeul,26,0,1,5,BossNoeul,Me Mind Y,,1
+Fort,25,Peat,29,2,0,3,FortPeat,Me Mind Y,,1
+Billy,31,Babe,27,1,1,3,BillyBabe,Independent,,1
+Pooh,22,Pavel,28,2,0,5,PoohPavel,Change2561,,1
+Michael,29,Topten,25,1,0,1,MichaelTopten,Change2561,,
+Sailub,32,Pon,30,1,1,1,SailubPon,Change2561,,
+Big,28,Park,22,1,1,3,BigPark,Star Hunter/,,
+Billkin,26,PP,26,0,0,5,BillkinPP,Independent,,1
+Boat,29,Oat,31,2,1,3,BoatOat,MFlow,,1
+Daou,28,Offroad,26,1,1,5,DaouOffroad,Open Label,,
+Maxky,31,Bas,27,1,1,5,MaxkyBas,Independent,,1
+Mos,24,Bank,27,2,1,1,MosBank,iQIYI Thailand,,
+Up,31,Poom,28,1,0,4,UpPoom,Independent,,1
+Yin,27,War,31,2,1,4,YinWar,ARGENTIS,,1
